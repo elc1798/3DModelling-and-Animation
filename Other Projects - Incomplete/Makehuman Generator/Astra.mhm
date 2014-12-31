@@ -1,0 +1,53 @@
+# Written by MakeHuman 1.0 alpha 8 rc3
+version alpha_8_rc3
+tags Astra
+macro Weight 0.258000
+macro Gender 0.000000
+macro Age 0.500000
+macro Height 0.500000
+macro Asian 0.726000
+macro African 0.000000
+macro Caucasian 0.274000
+macro Muscle 0.790000
+macro BodyProportions 1.000000
+gendered breast-dist-min-max -0.354000
+gendered breast-trans-vert-down-up 1.000000
+gendered BreastFirmness 1.000000
+gendered BreastSize 0.710000
+gendered breast-volume-vert-up-down -1.000000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 8ed08ea6-e3ad-4d36-b8e7-c4e3836e66b7
+hair fhair01 c4808d0d-bbbc-4e62-82a1-8610b06d0e05
+genitals vag01 a52a556f-076d-4f46-a3a3-931b28ff1af4
+eyebrows Eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes short01 f859bbbd-3b32-4a52-aa91-813ff2f0d1af
+clothes Jacket 594935b0-4b4a-4296-a35f-3e273e9b8e7a
+clothes shoes02 8887caca-d6fb-4d73-af10-1d4fb740a936
+clothesHideFaces True
+torso bulge-decr-incr 1.000000
+torso buttocks-volume-decr-incr 0.370000
+torso hip-scale-horiz-decr-incr -0.694000
+torso torso-scale-depth-decr-incr -0.952000
+torso torso-vshape-less-more -0.710000
+torso torso-scale-horiz-decr-incr -0.096000
+torso hip-scale-depth-decr-incr -0.354000
+torso stomach-pregnant-decr-incr 0.016000
+torso stomach-tone-decr-incr 0.580000
+armslegs l-foot-scale-decr-incr -0.436000
+armslegs r-upperleg-scale-depth-decr-incr -1.000000
+armslegs l-lowerleg-scale-horiz-decr-incr -0.646000
+armslegs r-lowerleg-scale-horiz-decr-incr -0.646000
+armslegs r-upperleg-scale-horiz-decr-incr -1.000000
+armslegs r-lowerleg-scale-depth-decr-incr -0.516000
+armslegs r-foot-scale-decr-incr -0.436000
+armslegs l-lowerleg-scale-depth-decr-incr -0.516000
+armslegs l-upperleg-scale-horiz-decr-incr -1.000000
+armslegs l-upperleg-scale-depth-decr-incr -1.000000
+skinMaterial skins/young_asian_female/young_asian_female_sweat.mhmat
+material short01 f859bbbd-3b32-4a52-aa91-813ff2f0d1af clothes/short01/black_satin.mhmat
+material shoes02 8887caca-d6fb-4d73-af10-1d4fb740a936 clothes/shoes02/materials/shoes02_blue.mhmat
+material fhair01 c4808d0d-bbbc-4e62-82a1-8610b06d0e05 hair/fhair01/materials/fhair01_blonde.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+material vag01 a52a556f-076d-4f46-a3a3-931b28ff1af4 genitals/vag01/vag01_default.mhmat
+skeleton muscles.json 

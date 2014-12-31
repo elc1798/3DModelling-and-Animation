@@ -1,0 +1,34 @@
+# Written by MakeHuman 1.0 alpha 8 rc3
+version alpha_8_rc3
+tags Superboy
+macro Weight 0.766000
+macro Gender 1.000000
+macro Age 0.484000
+macro Height 0.677000
+macro Asian 0.000000
+macro African 0.000000
+macro Caucasian 1.000000
+macro Muscle 1.000000
+macro BodyProportions 0.806000
+gendered BreastFirmness 0.500000
+gendered BreastSize 1.000000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 8ed08ea6-e3ad-4d36-b8e7-c4e3836e66b7
+eyebrows Eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothesHideFaces True
+face r-cheek-bones-in-out 0.694000
+face chin-bones-in-out -1.000000
+face head-square 0.476000
+face l-cheek-bones-in-out 0.694000
+face chin-width-min-max 1.000000
+face head-invertedtriangular 1.000000
+torso torso-trans-vert-down-up 0.096000
+torso torso-vshape-less-more 0.468000
+torso stomach-pregnant-decr-incr -1.000000
+torso stomach-tone-decr-incr 1.000000
+armslegs r-upperleg-scale-horiz-decr-incr -0.774000
+armslegs l-upperleg-scale-horiz-decr-incr -0.774000
+skinMaterial skins/default.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+skeleton muscles.json 

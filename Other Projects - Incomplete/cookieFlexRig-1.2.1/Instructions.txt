@@ -1,0 +1,2 @@
+For male: just edit the height and stuff with the meshes, look at the side panel on the left for layer info
+For female: edit the mesh, make it more feminine: Brests, posture, hair, etc.

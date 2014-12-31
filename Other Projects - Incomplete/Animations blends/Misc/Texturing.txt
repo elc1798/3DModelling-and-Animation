@@ -1,0 +1,10 @@
+Edit mode : Mark Seams for edges
+U --> UV unwrap
+Bottom menu (UV unwrap) --> Export
+Right Hand Side Menu --> "Texturing" looks like checkerboard
+Add New...
+Clouds --> Photo or image
+Scroll Down --> Mapping
+Generated --> UV
+Done!
+Hit F12 to render

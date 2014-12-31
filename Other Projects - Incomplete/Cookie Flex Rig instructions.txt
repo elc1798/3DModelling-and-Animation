@@ -1,0 +1,8 @@
+When you open it, you see the person and everything.
+First change it to cycles render at the top bar, click blender render, drop down should appear. Select cycles render
+The dude should have color now and dynamically render.
+In the mesh, you can see there is a green outline of a human, with a head, body, and a triple ring thing under it (This isnt a mesh. It's an outline in floating lines.
+Selecting the head will change the panel on the right hand side (There are two panels on the right. I'm talking about the one closer to the left.). Scrolling down will bring up options for the head, like upper head size, stuff like that.
+Likewise, selecting the body part will bring up body options.
+The triple circle is coloring.
+Good luck. There is a tutorial on youtube. Just look up "CookieFlexRig tutorial."
