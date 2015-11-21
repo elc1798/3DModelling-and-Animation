@@ -1,0 +1,32 @@
+# Written by MakeHuman 1.0 alpha 8 rc3
+version alpha_8_rc3
+tags Beowulf
+macro Weight 0.895000
+macro Gender 1.000000
+macro Age 0.452000
+macro Height 0.823000
+macro Asian 0.000000
+macro African 0.000000
+macro Caucasian 1.000000
+macro Muscle 1.000000
+macro BodyProportions 0.500000
+gendered BreastFirmness 0.500000
+gendered BreastSize 0.500000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 8ed08ea6-e3ad-4d36-b8e7-c4e3836e66b7
+eyebrows Eyebrow009 55b3b52a-379e-426d-b320-562ed57202b3
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+clothesHideFaces True
+face head-invertedtriangular 1.000000
+torso torso-vshape-less-more 0.322000
+torso torso-scale-horiz-decr-incr -0.032000
+torso torso-scale-vert-decr-incr 0.404000
+armslegs r-upperleg-scale-vert-decr-incr 0.564000
+armslegs l-upperleg-scale-vert-decr-incr 0.564000
+armslegs r-upperarm-scale-horiz-decr-incr 0.370000
+armslegs l-upperarm-scale-vert-decr-incr 1.000000
+armslegs l-upperarm-scale-horiz-decr-incr 0.370000
+armslegs r-upperarm-scale-vert-decr-incr 1.000000
+skinMaterial skins/default.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+skeleton humanik.json 
